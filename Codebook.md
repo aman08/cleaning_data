@@ -1,6 +1,6 @@
 Codebook
 
-title: Getting and Cleaning data course project
+Title: Getting and Cleaning data course project
 
 Variable description in the Tidy Data:
 
